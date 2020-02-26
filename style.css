@@ -1,0 +1,95 @@
+body{
+    /*background-image: url(https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2019/10/rise-of-skywalker.jpg);*/
+    background-image: url(https://wallpaperaccess.com/full/11800.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+#login-signup{
+    float:right;
+    margin-top:4px;
+
+}
+
+.btn{
+    background: transparent;
+    color:#e6ebf1;
+}
+.btn:hover{
+	color:gray;
+}
+
+.sticky-top{
+    padding-top: 0px;
+    margin-top: 0px;
+    /* background-image: url(https://lh3.googleusercontent.com/proxy/7mHS5IxMZV9AcJMqVJVI4m5tOZD-BbXS1UWfA1DfV555ARb712In8SfObslBvtpQX975BpuAokMd3uN2XvPqteY-GdVqW1nD4980wUVIBA); */
+}
+.carousel-inner {
+    height: 500px;
+
+    
+ }
+
+.footer{
+	text-align: center;
+    font-size: 1.5rem;
+    /* background-color: #e0ce9d; */
+    width: 100%;
+    /* background-image: url(https://lh3.googleusercontent.com/proxy/7mHS5IxMZV9AcJMqVJVI4m5tOZD-BbXS1UWfA1DfV555ARb712In8SfObslBvtpQX975BpuAokMd3uN2XvPqteY-GdVqW1nD4980wUVIBA); */
+    
+    background-size: cover;
+    color:white;
+
+}
+
+.links{
+	font-size: 1.7rem;
+	background-color: transparent;
+	border: none;
+	border-right: 1px solid black;
+    margin: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color:#bb7878;
+    
+
+}
+#last{
+	border: none;
+}
+.links:hover{
+	color: gray;
+}
+.img-thumbnail{
+    padding: 0rem;
+    margin-bottom: 5px;
+    margin-top:5px;
+
+}
+
+
+.st:hover{
+    transform: scale(1.1);
+}
+
+
+.header{
+	/*background-image: url(https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2019/10/rise-of-skywalker.jpg);*/
+	background-color: #212120;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#logo{
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 10%;
+}
+
+#first{
+	border-right: 1px solid #e6ebf1;
+}
